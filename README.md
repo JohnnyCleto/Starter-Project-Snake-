@@ -1,3 +1,3 @@
-## Snake (the game itself)
+## Snake (o jogo em si)
 
-Snake is a game in which a snake needs to explore an environment and catch the fruit without hitting any obstacle or itself. Every time the snake catches a fruit, its size increases.
+Snake é um jogo em que uma cobra precisa explorar um ambiente e pegar a fruta sem bater em nenhum obstáculo ou em si mesma. Toda vez que a cobra pega uma fruta, seu tamanho aumenta.
